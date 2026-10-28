@@ -1,6 +1,6 @@
 Hello Mr. Wamudhende,
 
-The automated payment calculator is ready. Functions of this commsnd-line tool include:
+The automated payment calculator is ready. Functions of this command-line tool include:
 
 - Accept name and number of litres of the supplier
 - Calculate the total amount owed to the milk supplier
